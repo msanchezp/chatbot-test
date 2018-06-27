@@ -1,0 +1,28 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Simple chatbot test using IBM Watson",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msanchezp/chatbot-test.git"
+  },
+  "keywords": [
+    "chatbot",
+    "ibm",
+    "watson"
+  ],
+  "author": "Manuel Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msanchezp/chatbot-test/issues"
+  },
+  "homepage": "https://github.com/msanchezp/chatbot-test#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "watson-developer-cloud": "^3.5.1"
+  }
+}
